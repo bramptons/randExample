@@ -14,6 +14,9 @@ blah
 #	name = Abraham Glover
 #	email = abesp@SB-HUB-A.(none)
 
+<<<<<<< HEAD
 massive mistake
-
+=======
+>>>>>>> parent of 0578452...
 adding more information that happens to be correct ****
+ messed up my code
